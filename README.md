@@ -12,9 +12,7 @@
 ### :trophy:Top Repository :
 
 <p align="center">
-
 <a href="https://github.com/HoseinNezamdoost/NikeStore"><img title="ADBWEBKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNezamdoost&repo=NikeStore&theme=dracula"></a>
-
 <a href="https://github.com/HoseinNezamdoost/StudentApplication"><img title="ADBWEBKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNezamdoost&repo=StudentApplication&theme=dracula"></a>
 
 ### :fire: My Stats :
