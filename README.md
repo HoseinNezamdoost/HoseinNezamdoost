@@ -6,20 +6,20 @@
 
 ### :hand:Hey There :
 
-<p align="center"><a href="https://github.com/HoseinNezamdoot"><img title="HoseinNezamdoost" src="https://github-readme-stats.vercel.app/api?username=HoseinNezamdoost&show_icons=true&include_all_commits=true&theme=dracula&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/HoseinNezamdoot"><img title="HoseinNezamdoost" src="https://github-readme-stats.vercel.app/api?username=HoseinNezamdoost&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
 </p>
 
 ### :trophy:Top Repository :
 
 <p align="center">
-<a href="https://github.com/HoseinNezamdoost/NikeStore"><img title="ADBWEBKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNezamdoost&repo=NikeStore&theme=dracula"></a>
-<a href="https://github.com/HoseinNezamdoost/ArzUp"><img title="ADBWEBKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNezamdoost&repo=ArzUp&theme=dracula"></a>
+<a href="https://github.com/HoseinNezamdoost/NikeStore"><img title="ADBWEBKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNezamdoost&repo=NikeStore&theme=radical"></a>
+<a href="https://github.com/HoseinNezamdoost/ArzUp"><img title="ADBWEBKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNezamdoost&repo=ArzUp&theme=radical"></a>
 
 ### :fire: My Stats :
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinNezamdoost&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinNezamdoost&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
